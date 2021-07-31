@@ -1,0 +1,38 @@
+img{
+height: 300px;
+width: 300px;
+}
+
+.first{
+  display: flex;
+
+
+
+}
+
+.image{
+  width:400px;
+}
+
+.minor{
+  width: 400px;
+}
+.catagore{
+  font-size: 2rem;
+  display: inline-block;
+  margin-right: 10px;
+}
+.price{
+  font-size: 1.5rem;
+
+}
+
+.mianMinue{
+
+
+}
+button{
+  padding: 10px 15px;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
